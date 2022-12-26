@@ -3,6 +3,8 @@ title: Welcome
 type: docs
 ---
 
+{{<figure src="logo.svg" alt="This Mortal Coil logo" width="400 rem">}}
+
 There's no escape in death, spacefarer. No redemption. No relief. Only a slow, silent, solitary spiral of terror as your spirit tries to escape the clutches of the Great Gaping Maw at the Center of the Negaverse. You can claw and scrape at the fabric of spacetime all you want, but the Maw is inescapable — its hunger insatiable. Eventually you'll be compressed and consumed as it extracts every last bit of information from your withering spirit, until all that's left is nothingness.
 
 Sounds terrible, if you ask me.

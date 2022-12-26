@@ -29,19 +29,19 @@ enableGitInfo = true
 [menu]
 # [[menu.before]]
 [[menu.after]]
-  name = "Amalara Game Studio"
-  url = "https://amalara.com"
-  weight = 12
-
-[[menu.after]]
   name = "Liminal Horror"
   url = "https://goblinarchives.github.io/LiminalHorror/"
   weight = 11
 
+[[menu.after]]
+  name = "Amalara Game Studio"
+  url = "https://amalara.com"
+  weight = 12
+
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
-  BookTheme = 'auto'
+  BookTheme = 'dark'
 
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
