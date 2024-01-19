@@ -1,23 +1,19 @@
 ---
 title: "Space Travel"
-weight: 6
-# bookFlatSection: false
-# bookToc: true
-# bookHidden: false
-# bookCollapseSection: false
-# bookComments: false
-# bookSearchExclude: false
+weight: 7
 ---
 
 # Space travel
 
-> Never forget, traveller, that space is trying to kill you.
+> Never forget, traveler, that space is trying to kill you.
+
 > Oh, sure, the Negaverse is dangerous. The Wraiths, powered by spite; the Maw and its eternal, unceasing hunger; the corrupting energy that flows like black water and spreads pestilence, famine, and drought wherever it leaks into our world — all of those are exceedingly perilous to life and limb.
-> But here's the thing — none of that remotely compares to the dangers posed by the empty, unknowing, uncaring void of space.
+
+> But here’s the thing — none of that remotely compares to the dangers posed by the empty, unknowing, uncaring void of space.
 
 # Getting around
 
-In space, everything is really, really far apart. It takes considerable time and energy to get from point A to point B, so you'll make use of two technologies to cross those vast distances: the positron drive, which is safe but slow, and the jump drive, which is fast but risky.
+In space, everything is really, really far apart. It takes considerable time and energy to get from point A to point B, so you’ll make use of two technologies to cross those vast distances: the positron drive, which is safe but slow, and the jump drive, which is fast but risky.
 
 ## Positron drive
 
@@ -80,7 +76,7 @@ A basic, alpha-rated jump drive allows a ship to instantaneously move one 1/1000
 
 Breaking the laws of physics comes with certain risks, however. First, while hyperspace jumps appear instantaneous to observers in the physical universe, conscious travelers report horrifying experiences. To them, time can stop completely, flow at varying rates, or run backward. Space grows and loses dimensions and folds in upon itself in unimaginable ways. Some travelers even report frightening encounters with the forces of the Negaverse.
 
-To avoid these experiences, living creatures always enter cryosleep before undertaking a jump and the ship's AI navigates hyperspace on their behalf. `Stasis sickness`, which resembles a combination of hangover, motion sickness, and jet lag is occasionally reported upon waking from cryosleep, but most people tolerate it well.
+To avoid these experiences, living creatures always enter cryosleep before undertaking a jump and the ship's AI navigates hyperspace on their behalf. `Stasis sickness`, which resembles a combination of hangover, motion sickness, and jet lag is occasionally reported upon waking from cryosleep. While suffering from stasis sickness, all of your damage rolls are `impaired`.
 
 Second, hyperspace is filled with dangerous obstacles: rogue probability waves, causal tsunamis, entropic storms, and strange attractors. Fortunately, brave explorers have mapped many of the popular routes between star systems, making voyages between known locations considerably less perilous. Additionally, massive orbital structures called jump gates act like lighthouses in hyperspace, aiding navigation and reducing risk even further.
 
@@ -109,9 +105,9 @@ At the end of hyperspace travel, roll on the following table. If you are traveli
 
 # Onboard your ship
 
-Space ships suffer from the same constraints that sailing ships and aircraft suffer from: space. Life aboard a spaceship is, even in the most luxurious ships, relatively cramped. Sleeping quarters are small, restrooms are often shared.
+Space ships suffer from the same constraints that sailing ships and aircraft suffer from: space. Life aboard a spaceship is, even in the most luxurious ships, relatively cramped. Sleeping quarters are small, restrooms are shared, and water use is strictly rationed.
 
-Ships have to carry every drop of water, morsel of food, and atom of breathable air their inhabitants need to survive in space. They need to carry fuel, cargo, and sometimes passengers along with their crew. On board a space ship, space is the most valuable resource, and it is never wasted.
+On board a space ship, space is the most valuable resource, and it is never wasted.
 
 ## Carrying cargo
 
@@ -131,13 +127,15 @@ A basic, alpha-rated matter condenser allows your ship to hold `60 units` of car
 | Eta        | 600,000,000       |
 | Theta      | 6,000,000,000     |
 
-## Repairs, refueling, + upgrades
+## Repairs + refueling
 
 Your beginning ship is outfitted with a positron drive, an alpha-rated jump drive, an alpha-rated matter condenser, and a cryochamber. It has 1d6 breech protection (BP), can hold 20 units of fuel, and can carry up to 60 units of cargo.
 
-- If your ship reaches `0 BP`, then any subsequent breech damage destroys it. Repairing BP costs `1,000 credits` per point repaired along with a week spent in port.
-- If your ship reaches `0 fuel`, then you are adrift. Being towed back to port costs you `5,000 credits` per unit of fuel consumed by the towing ship.
-- Each unit of fuel normally costs `1,000 credits`.
+* If your ship reaches `0 BP`, then any subsequent breech damage destroys it. Repairing BP costs `1,000 credits` per point repaired along with a week spent in port.
+* If your ship reaches `0 fuel`, then you are adrift. Being towed back to port costs you `5,000 credits` per unit of fuel consumed by the towing ship.
+* Each unit of fuel normally costs `1,000 credits`.
+
+## Upgrades
 
 You can upgrade the power of your jump drive and the capacity of your matter condenser by paying the listed cost and spending a week in port. You pay the cost for each step of each upgrade, though the actual modifications can be made at one time.
 
@@ -154,10 +152,6 @@ For example, if you were to upgrade your alpha-rated jump drive to a gamma-rated
 | Eta        | 1,280,000   |
 | Theta      | 2,560,000   |
 
-## Weapons + armor
-
-Most civilian ships aren't equipped with weapons or armor. Pirate ships are sometimes equipped with salvaged proton cannons (`1d6 breech`) and inertial dampeners (`+1 armor`). Military ships range from speedy fighters with proton cannons of their own to massive carriers equipped with tactical antimatter torpedoes and singularity howitzers.
-
 # When things go wrong
 
 > If you travel through space long enough, things will eventually go wrong, and being prepared can mean the difference between life and death. So you'd better be prepared, spacefarer.
@@ -168,19 +162,19 @@ The biggest danger to any space traveler is running out of fuel. If you're in a 
 
 ## Electromagnetic pulses
 
-Alfajiri's periodic stellar storms generate powerful electromagnetic pulses that propagate through the system at the speed of light. The gravitational fields of each planet largely protect creatures and systems on the surface, but anything in space is vulnerable to interference. When an EMP hits, any electronic system, including drones, robots, ships, and communications systems are rendered non-functional for `1d4` minutes.
+Alfajiri’s periodic stellar storms generate powerful electromagnetic pulses that propagate through the system at the speed of light. The gravitational fields of each planet largely protect creatures and systems on the surface, but anything in space is vulnerable to interference. When an EMP hits, any electronic system, including drones, robots, ships, and communications systems are rendered non-functional for `1d4` minutes.
 
 ## Gravity waves
 
-Ships traveling at relativistic speeds occasionally leave a wake in the fabric of space time. An unexpected gravity wave can cause severe turbulence on board a ship. If caught unaware, the occupants of a ship hitting a gravity wave take `1d4 damage` from being jostled around.
+Ships traveling at relativistic speeds occasionally leave a wake in the fabric of spacetime. An unexpected gravity wave can cause severe turbulence on board a ship. If caught unaware, the occupants of a ship hitting a gravity wave must make a `DEX save` or lose `1d4 STR` from being jostled around.
 
 ## Hull breech
 
-When your ship reaches `0 BP`, the next instance of breech damage destroys it. Destruction doesn't necessarily mean a spectacular explosion, however. It most commonly means a hull breech, in which all of the air onboard quickly and violently escapes. If you are near your vacuum suit when a hull breech occurs, you can make a `STR save` to get inside it before you pass out from a lack of oxygen and your blood begins to boil from a lack of air pressure.
+When your ship reaches `0 BP`, the next instance of breech damage destroys it. Destruction doesn't necessarily mean a spectacular explosion, however. It most commonly means a hull breech, in which all of the air onboard quickly and violently escapes. If you are near your vacuum suit when a hull breech occurs, you can make a `DEX save` to get inside it before you pass out from a lack of oxygen and your blood begins to boil from a lack of air pressure.
 
 ## Quantum foam
 
-The barrier between hyperspace and physical space can be temporarily torn open when a ship uses its jump drive, letting a mixture of uncollapsed wave particles leak into our world. A patch of quantum foam is undetectable until you're in the middle of it, at which point your senses are overwhelmed by the improbability of hyperspace. Any living creature not in cryosleep takes `1d4 stress`.
+The barrier between hyperspace and the physical universe can be temporarily torn open when a ship uses its jump drive, letting a mixture of uncollapsed wave particles leak into our world. A patch of quantum foam is undetectable until you're in the middle of it, at which point your senses are overwhelmed by the improbability of hyperspace. Any living creature not in cryosleep must make a `CTRL save` or lose `1d4 CTRL`.
 
 ## Space junk
 

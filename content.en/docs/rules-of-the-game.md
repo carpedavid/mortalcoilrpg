@@ -1,19 +1,13 @@
 ---
 title: "Rules of the Game"
-weight: 5
-# bookFlatSection: false
-# bookToc: true
-# bookHidden: false
-# bookCollapseSection: false
-# bookComments: false
-# bookSearchExclude: false
+weight: 6
 ---
 
 # Rules of the game
 
-> You can't very well break the rules unless you learn to play by them first, can you, spacefarer?
+> You can’t very well break the rules unless you learn to play by them first, can you, spacefarer?
 
-*This Mortal Coil* and the games it is based on assume that, as a competent character, you can accomplish most tasks given enough time and resources. It's only when facing challenges like running from a hungry frost grub that's chasing you across the crevice-scarred ice glaciers of Barafu that failure is truly possible.
+*This Mortal Coil* and the games it is based on assume that, as a competent character, you can accomplish most tasks given enough time and resources. It’s only when facing challenges like running from a hungry frost grub that’s chasing you across the crevice-scarred ice glaciers of Barafu that failure is truly possible.
 
 The following rules will aid you and your crew in figuring out what happens during those perilous situations.
 
@@ -21,9 +15,9 @@ The following rules will aid you and your crew in figuring out what happens duri
 
 Each of your three `abilities` is used to make `saves` in specific situations.
 
-- `STR` — Strength is used in instances of physical power and endurance. Physical `damage` targets STR.
-- `DEX` — Dexterity is used in instances of speed, subtlety, and precision.
-- `CTRL` — Control is used in instances of social interaction, emotional strain, stress, and fallout. `Stress` targets CTRL.
+* `STR` — Strength is used in instances of physical power and endurance. Physical `damage` targets STR.
+* `DEX` — Dexterity is used in instances of speed, subtlety, and precision.
+* `CTRL` — Control is used in instances of social interaction, emotional strain, stress, and fallout. `Stress` targets CTRL.
 
 ## Saves
 
@@ -35,11 +29,11 @@ If there is a `contested action`, the party facing the greatest risk makes the s
 
 ## Hit protection
 
-Hit protection (`HP`) measures your ability to avoid `damage` and `stress` when you fail a `save`.
+`HP` reflects your character’s ability to avoid `stress` and physical `damage`. It is lost during combat and recovered after a few moments of rest.
 
 ### Armor + stability
 
-Your `armor` value is deducted from incoming `damage` before it is applied to your `HP`. Similarly, your `stability` value is deducted from incoming `stress` before it is applied to your `HP`. Equipment can provide this bonus defense (e.g. +1 stability or +2 armor).
+Your `armor` value is deducted from incoming `damage` before it is applied to your `HP`. Similarly, your `stability` value is deducted from incoming `stress` before it is applied to your `HP`. Equipment (p. XX) provides these defense bonuses.
 
 ### Deprivation + fatigue
 
@@ -47,27 +41,27 @@ If you are `deprived` of a crucial need, such as food or rest, you are unable to
 
 When you are deprived for more than a day, you begin to add `fatigue` to your inventory, one for each day. Each fatigue occupies one `inventory slot` and lasts until you are able to recuperate (such as a full night's rest in a safe spot).
 
-You can also become `deprived` or suffer `fatigue` through events in the game.
+If you do not have an open inventory slot, you must drop an item to make room for fatigue. You can also become `deprived` or suffer `fatigue` through events in the game.
 
 ### Healing
 
-Taking a rest for a few moments restores 1d6 `HP`. Sleeping overnight in a safe location restores all `HP`, and if your HP is full, then you regain `1d6` points of ability damage (you pick which ability you heal). If you have dedicated medical attention while resting for a week, you fully recover all ability damage.
+Taking a rest for a few moments restores `1d6 HP`. Sleeping overnight in a safe location restores all `HP`, and if your HP is full, then you regain `1d6` points of ability damage (you pick which ability you heal). If you have dedicated medical attention while resting for a week, you fully recover all ability damage.
 
 # Inventory
 
-You have a total of ten `inventory slots` that represent a backpack or bag (six slots) and your hands and upper body (four slots). Most items take up one slot. Small items can be bundled together into one slot. Bulky items take two slots and are awkward to carry, often requiring two hands.
+You have a total of ten `inventory slots` that represent your ability to carry items. Most items take up one slot, but `small` items can be bundled together. `Bulky` items take two slots and are awkward to carry, often requiring two hands.
 
-You cannot carry more items than your inventory allows. Ships can be used to store additional inventory, but those items become inaccessible when you are away from your ship.
+You cannot carry more items than your inventory allows. You can store additional inventory in your ship, but those items become inaccessible when you are away. You can also utilize your undead thralls to carry items for you.
 
 *When your inventory is full (e.g. you have filled all ten slots), you are temporarily reduced to 0 HP.*
 
 ## Ships + vehicles
 
-Your ship (and any other vehicles you own) has `breech protection` (BP). When a ship's BP reaches 0, it is destroyed by any additional breech damage. BP is only affected by weapons and abilities with the `breech` tag.
+Your ship (and any other vehicles you own) has `breech protection` (BP). When a ship’s BP reaches 0, it is destroyed by any additional breech damage. BP is only affected by weapons and abilities with the `breech` tag.
 
 ## Associates
 
-You can hire `associates` to aid in your travels. To create an associate, roll `3d6` for each ability score, then give them `1d6` HP and a simple weapon (`d6`). Associates cost between 50-100 `credits` per day.
+You can hire `associates` to aid in your travels. To create an associate, roll `3d6` for each ability score, then give them `1d6` HP and a simple weapon (`d6`). Associates cost 50-100 `credits` per day.
 
 ## Money
 
@@ -95,17 +89,17 @@ You must state what actions you are taking before you roll any dice. If you atte
 
 As long as an attack is feasible, it automatically hits. The attacker rolls their `damage` die, and then the opponent subtracts any `armor` bonus and applies the remainder to their `HP`. Any excess damage is applied to `STR`.
 
-If an attack deals `stress`, the opponent subtracts any `stability` bonus before applying the remainder to their HP. Excess stress is dealt to `CTRL`.
+If an attack deals `stress`, the opponent subtracts any `stability` bonus before applying the remainder to their `HP`. Excess stress is dealt to `CTRL`.
 
 ### Attack modifiers
 
-Your attack is `impaired` if you are suffering from a condition or are in a position that would impact your effectiveness. Impaired attacks use a damage or stress die one step smaller than normal. For example, `1d8` becomes `1d6`, and `1d4` becomes `1d3`.
+Your attack is `impaired` if you are suffering from a condition or are in a position that would impact your effectiveness. Impaired attacks always roll `1d4` for damage or stress, regardless of the normal value.
 
-On the other hand, your attack is `enhanced` if you are in a position that improves your effectiveness. Enhanced attacks use a damage die one step larger than normal. For example, `1d6` becomes `1d8` and `1d12` becomes `1d20` (the maximum).
+On the other hand, your attack is `enhanced` if you are in a position that improves your effectiveness. Enhanced attacks always roll `1d12` for damage or stress, regardless of the normal value.
 
 ### Blast
 
-The `blast` quality denotes an attack that hits every target within an area. If you use a blast attack, you roll damage separately for each affected target. If the size of the area is unclear, roll the attack's standard damage die to determine the number of targets affected.
+The `blast` quality denotes an attack that hits every target within an area. If you use a blast attack, you roll damage separately for each affected target. If the size of the area is unclear, roll the attack’s standard damage die to determine the number of targets affected.
 
 ### Dual weapons
 
@@ -121,15 +115,15 @@ Escaping a doomed situation requires a successful `DEX` save and a safe destinat
 
 ## Critical damage + stress
 
-If `damage` brings your `HP` below zero, your `STR` is decreased by the amount remaining and you must make a STR `save` to avoid taking `critical damage`. Likewise, if `stress` brings your HP below zero, your `CTRL` is decreased by the remaining amount, and you must make a CTRL save to avoid taking `critical stress`.
+If `damage` brings your `HP` below zero, your `STR` is decreased by the amount remaining and you must make a `STR save` to avoid taking `critical damage`. Likewise, if `stress` brings your HP below zero, your `CTRL` is decreased by the remaining amount, and you must make a `CTRL save` to avoid taking `critical stress`.
 
-Suffering critical damage `disables` you, rendering you unconscious and immobile. If you do not receive aid and rest within one hour, you die. Suffering critical stress results in `fallout`. Roll on the fallout table to determine the result.
+Suffering critical damage `disables` you, rendering you unconscious and immobile. If you do not receive aid and rest within one hour, you die. Suffering critical stress results in taking `fallout`, each instance of which permanently occupies one `inventory slot`.
 
 ## Retiring your character
 
 If any of your ability scores are reduced to zero, your character is immediately `retired` from the game. Whether you are dead, incapacitated, or lost to the void is up to you — you may choose how to narrate your final moments.
 
-When all ten of your `inventory slots` are filled with `fallout`, your character is in extreme danger — the next time your character would gain fallout, they are immediately retired instead. The corrupting influence of the Negaverse has finally eliminated the last trace of your humanity and your fate has been sealed.
+When all ten of your `inventory slots` are filled with `fallout`, your character is in extreme danger — the next time your character would take fallout, they are immediately retired instead. The corrupting influence of the Negaverse has finally eliminated the last trace of your humanity and your fate has been sealed.
 
 When your character retires, you may create a new character or take control of an associate. Your new character immediately joins the party to minimize downtime.
 
@@ -140,52 +134,10 @@ Whenever you suffer `critical stress`, the energy of the Negaverse gains a footh
 1. **Your eyes** melt away, leaving a gaping black void to fill your eye sockets. You can still see, but now you can see in the absence of light.
 2. **Your legs** transform into a writhing mass of black cilia. You can still move, but now you can cling to any surface.
 3. **Your head** twists 180 degrees. You feel no pain, and you can now perceive the world in front of and behind you simultaneously.
-4. **Your bones** elongate. You are now two feet taller than you were, but you're able to squeeze into spaces no human body should fit into.
+4. **Your bones** elongate. You are now two feet taller than you were, but you’re able to squeeze into spaces no human body should fit into.
 5. **Your tongue** swells to three times its size, turns black, and develops a mind of its own. You can still communicate normally, but you no longer need to eat.
 6. **Your arms** fade away. You can still touch and manipulate the world around you, but you can also reach through solid matter.
 7. **Your skin** blisters and peels off in broad, bloody sheets. You indelibly mark whatever you touch, but you're now immune to the effects of extreme cold and heat.
 8. **Your chest** caves in, leaving a gaping void in the middle of your torso. You perpetually feel like you are suffocating, but you no longer need to breathe.
 9. **Your nose** rots and falls off, leaving a gaping, weeping hole in the middle of your face. You can now smell the emotional state of any living creature you encounter.
 10. **Your mouth** stretches and twists into a horrific, fanged grin. No matter what you do, you can't hide your terrifying smile, but you can now speak directly into the mind of anyone you can see.
-
-# For facilitators
-
-Each of the preceding rules applies to facilitator character as well as player characters. The following are a set of rules specific to facilitator characters to aid you in running the game.
-
-## Disposition
-
-When the player characters encounter a facilitator character whose reaction would not be obvious from the story, roll `2d6` and consult the following table. The result is the facilitator character's starting disposition.
-
-| **2d6** | **Disposition** |
-| ------- | --------------- |
-| 2       | Hostile         |
-| 3-5     | Wary            |
-| 6-8     | Curious         |
-| 9-11    | Kind            |
-| 12      | Helpful         |
-
-## Mobs
-
-Large groups of similar combatants fighting together are treated as a single `mob` with a single set of abilities, HP, and damage die. When the mob reaches 0 `STR`, it disperses.
-
-Except for `blast` damage, attacks against mobs by individuals are `impaired`, while attacks against individuals by mobs are `enhanced`.
-
-## Morale
-
-`Morale` is useful mechanism for simulating a facilitator character's desire to survive. Morale is not an appropriate mechanism for influencing the behavior of player characters, whose actions should always remain in control of the players.
-
-Individual foes must save when they're reduced to `0 HP`. Enemy groups must pass a `CTRL` save to avoid fleeing when they take their first casualty, when they suffer `critical damage or stress`, and again when they lose half their number. Groups with particularly notable leaders may use the leader's CTRL in place of their own.
-
-Some facilitator characters simply aren't susceptible to the fear of death. Their proximity to the Negaverse means that their behavior is determined solely by you.
-
-## Stress
-
-The degree and frequency with which the player characters encounter `stress` establishes the tone and pacing of the game. Here are some examples of stressful encounters suitable for a story of necromancers in space:
-
-| **Amount** | **Level**         | **Examples**                                 |
-| ---------- | ----------------- | -------------------------------------------- |
-| 1          | Glimpse           | A brief glimpse of a dark spirit             |
-| 1d4        | Brief contact     | Travel through hyperspace while conscious    |
-| 1d6        | Direct exposure   | Raising the dead for the first time          |
-| 1d8        | Prolonged contact | Face to face contact with angels and wraiths |
-| 1d10       | Overwhelming      | Stepping foot in the Negaverse               |

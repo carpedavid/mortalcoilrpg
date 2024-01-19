@@ -1,127 +1,55 @@
 ---
 title: "The Dark Arts"
-weight: 7
-# bookFlatSection: false
-# bookToc: true
-# bookHidden: false
-# bookCollapseSection: false
-# bookComments: false
-# bookSearchExclude: false
+weight: 8
 ---
 
 # The dark arts
 
-> The dark arts have always held power, spacefarer, but their results have been...well...let's say they were unreliable. Getting any result at all, let alone the one you expected, felt like 99% luck and 1% chance.
+> The dark arts have always held power, spacefarer, but their results have been…well…let's say they were unreliable. Getting any result at all, let alone the one you expected, felt like 99% luck and 1% chance.
+
 > But now, though — now that we can see the Symbol in the night sky, the dark arts have become more of a science. You can make the forces of the Negaverse do whatever you want, whenever you want, to accomplish anything your heart desires.
 
-As a `necromancer`, you harness the energy of the Negaverse to bend reality to your will. The stronger your connection to the dark forces of the Negaverse, the stronger your ability to remake the world around you. But be careful — if you gaze too long into the abyss, the abyss will gaze back.
+As a necromancer, you harness the energy of the Negaverse to bend reality to your will. The stronger your connection to the dark forces of the Negaverse, the stronger your ability to remake the world around you. But be careful — if you gaze too long into the abyss, the abyss will gaze back.
 
 In This Mortal Coil, the dark arts take three primary forms: `thralls` — skeletons, zombies, and even more powerful creatures that you control; `fleshcrafting` — diabolical surgery to enhance and improve your thralls; and `spellcasting` — esoteric rituals that allow you to break the rules of time, space, and causation.
 
 You wield these powers in service of creating your `anchor`, the mystical object that will tether your spirit permanently to the physical world and grant you immortality.
 
-# Fetish
+# Focus
 
-> Humans are bad at delayed gratification, spacefarer. You'd be surprised at what people will sell their souls for…or maybe you wouldn't.
+In order to make use of any of your necromantic powers, you require a `focus` — an object of devotion that channels the energy of the Negaverse into the physical world and which stores the spiritual energy of the souls you collect. You create your focus when you create your character and it remains with you through your adventures.
 
-In order to make use of any of your necromantic powers, you require a `fetish` — an object of devotion that channels the energy of the Negaverse into the physical world and which stores the spiritual energy of the souls you collect. You create your fetish when you create your character and it remains with you through your adventures.
+Your focus can never be taken from you by force and cannot be destroyed while you are alive, but you may willingly part with it. Doing so breaks your connection to the Negaverse and renders all of your powers useless.
 
-Your fetish can never be taken from you by force and cannot be destroyed while you are alive, but you may willingly part with it. Doing so breaks your connection to the Negaverse and renders all of your powers useless.
+## Collecting souls
 
-### Collecting souls
+> Humans are bad at delayed gratification, spacefarer. You’d be surprised at what people will sell their souls for…or maybe you wouldn’t.
 
-A sentient creature's death creates a conduit to the Negaverse. Typically, their soul travels through the conduit and is eventually consumed by the Great Gaping Maw. Your fetish gives you the power to interrupt this process — but only if the soul is willing.
+A sentient creature’s death creates a conduit to the Negaverse. Typically, their soul travels through the conduit and is eventually consumed by the Great Gaping Maw. Your focus gives you the power to interrupt this process — but only if the soul is willing.
 
-Some creatures will agree to trade their soul in exchange for the fulfillment of some worldly desire. They may be interested in power, wealth, and fame, or they may be motivated by greed, envy, or revenge. Every creature that is willing to give you their soul has their own very specific criteria for doing so.
+Some creatures will agree to trade their soul in exchange for the fulfillment of some worldly desire. They may be interested in power, wealth, and fame, or they may be motivated by greed, envy, or revenge. Every creature that is willing to give you their soul has their own specific criteria for doing so.
 
-Other creatures have an obsession so strong that their soul resists the pull of the Negaverse and becomes trapped in the physical world. Ghosts, specters, and poltergeists are all tormented spirits — doomed to an eternity of obsession and powerless to relieve their obsession. Spirits of this sort are always willing to trade their soul for the fulfillment of whatever desire tethered them to this world.
+Other creatures have an obsession so strong that their soul resists the pull of the Negaverse and becomes trapped in the physical world. These tormented spirits are doomed to an eternity of obsession and are powerless to release themselves. They are always willing to trade their soul for the fulfillment of whatever desire tethered them to this world.
 
-Unwilling spirits can't be collected — the pull of the Negaverse is simply too strong.
+Unwilling spirits can’t be collected — the pull of the Negaverse is simply too strong.
 
 # Thralls
 
-The first of the dark arts is the power to create `thralls`, undead creatures under your control. Creating a thrall requires a freshly deceased body and about a minute of uninterrupted time in which you can concentrate while holding your fetish.
+The first of the dark arts is the power to create `thralls`, undead creatures under your control. Creating a thrall requires a freshly deceased body and about a minute of uninterrupted time in which you can concentrate while holding your focus.
 
 Once a minute has passed, the cadaver becomes a `zombie` and will obey your instructions to the best of its ability. In order to receive orders, your thrall must within your line of sight and be able to see and hear you.
 
 Your control over the thrall ends once you cease thinking about it. Your connection to it is severed and it returns to its previously inanimate state, though you can reanimate it if you have the opportunity to do so and it is still structurally sound.
 
-As a neophyte, you can only animate one thrall at a time. However, as your connection to the Negaverse increases, your power grows. You can create an additional `thrall` for each `inventory slot` filled by `fallout`. Each thrall associated with an inventory slot:
+As a neophyte, you can only animate one thrall at a time. However, you can create an additional `thrall` for each `inventory slot` filled by `fallout`. Each thrall associated with an inventory slot:
 
 - Remains under your control until destroyed or dismissed, even if you are asleep, unconscious, or otherwise distracted.
 - Can be repaired and empowered through the dark art of `fleshcrafting`.
 - Can be sacrificed to power your `spells`.
 
-When you have an eligible open slot, you can also `enthrall` an existing corporeal undead creature who is not a thrall of another necromancer. The targeted creature must make a `CTRL save` or fall under your control.
+When you have an eligible open slot, you can also `enthrall` an existing corporeal undead creature who is not a thrall of another necromancer. The targeted creature must make a `CTRL save` or fall under your control. See [[Amalara Game Studio/This Mortal Coil/Dangerous creatures|Dangerous creatures]] for a complete list of undead.
 
 Once you complete your `anchor`, you can control an unlimited number of thralls.
-
-## A short list of undead creatures
-
-The following is a non-exhaustive list of corporeal undead that you can employ as thralls. The following tags apply to the creatures that follow.
-
-`Mindless` creatures lack the capacity to learn, plan, and make decisions. When under someone's control, they can follow basic instructions but interpret them literally. They automatically fail any save to avoid becoming `enthralled`.
-
-`Relentless` creatures attack without care for their own safety.
-
-`Undead` creatures are the bodies and spirits of previously living creatures which are animated by the dark energy of the Negaverse. They do not need to breathe, eat, or sleep to continue existing, though many of them have an overwhelming desire for human flesh.
-
-### Ghoul
-
-*Rotting teeth. Distended belly. Stench of decaying flesh.*
-
-6 HP, 0 Armor, 14 STR, 10 DEX, 3 CTRL
-
-`Relentless`, `undead`
-
-- **Claws and bite** (d8+d6)
-- **Critical damage:** target is `paralyzed`. The wound becomes fatal after one day if the victim does not receive medical treatment.
-
-Ghouls are a grotesque embodiment of greed and gluttony — they are driven by an all-consuming hunger for human flesh. They prefer luring victims to their untimely deaths, but will resort to digging up old graves if they can't get a fresh meal.
-
-Ghouls can be created from zombies via `fleshcrafting`.
-
-### Skeleton
-
-*Animated bone and sinew, held together by dark magic and luck.*
-
-5 HP, 0 Armor, 6 STR, 13 DEX, 3 CTRL
-
-`Mindless`, `relentless`, `undead`
-
-- **Bony fists** (d4)
-- **Drafty**: as they're made of bone and air, skeletons are very difficult to damage. All attacks against skeletons are `impaired`, except for blast attacks, which are `enhanced`.
-
-While animating a zombie requires a fresh, intact corpse, you can create a skeleton from old and even partial corpses. They're less useful and more fragile than a zombie, and they can't be improved or repaired via `fleshcrafting`, but sometimes you have to take what you can get.
-
-### Wight
-
-*Eyes black as pitch and a smile that cuts like a knife.*
-
-12 HP, 3 Armor, 16 STR, 8 DEX, 12 CTRL
-
-`Undead`
-
-- **Proton rifle** (d8 damage, bulky)
-- **Frightening**: upon seeing a wight for the first time, foes must make a `CRTL save` or be paralyzed and unable to act until the wight leaves their line of sight or attacks.
-
-Wights are cold and calculating — animated by the cruelest spirits of the Negaverse. They can follow complex orders and they crave nothing other than imposing their power on others. Solitary necromancers often employ them as lieutenants.
-
-Wights can be created from ghouls via `fleshcrafting`.
-
-### Zombie
-
-*Dead eyes. Stiff gait. Uncanny lack of respiration.*
-
-6 HP, 0 Armor, 10 STR, 6 DEX, 3 CTRL
-
-`Mindless`, `relentless`, `undead`
-
-- **Bite** (d6)
-
-The most striking thing about zombies is how human they look. Even as they deteriorate, dripping blood and trailing torn flesh, even as they grab you with their cold, stiff arms, they still look like someone you might have known — maybe even loved.
-
-Unless directed otherwise, zombies mindlessly attack any living creature that comes near them.
 
 # Fleshcrafting
 
@@ -145,11 +73,11 @@ A creature's description indicates whether it can be created via fleshcrafting a
 
 # Spellcasting
 
-Thralls are useful, to be sure, but spells allow you to break the laws of time, space, and causality. Before you can cast a spell, you must learn it — and as you might expect, that knowledge doesn't come easily.
+Thralls are useful, to be sure, but spells allow you to break the laws of time, space, and causality. Before you can cast a spell, you must learn it – and as you might expect, that knowledge doesn’t come easily.
 
 ## Learning spells
 
-> Trying to learn the secrets of the dark arts is like trying to build ghost grenades by reading instructions written in a language you don't know, can never hope to learn, and which might not be a language at all.
+> Trying to learn the secrets of the dark arts is like trying to build a grenade by reading instructions written in a language you don't know, can never hope to learn, and which might not be a language at all.
 
 Learning a spell is an intentional process that takes time and effort and often involves creative or risky problem solving. To learn a spell, a character must first become aware of its existence and then take the steps necessary to decipher it.
 
@@ -158,21 +86,6 @@ To decipher a spell, a character must have sensed the entirety of the spell, tho
 In any case, once the character has all of the available spell information, they must spend `1d6` days working to assemble the symbols and formulae in their mind. At the end of this period, they know the spell.
 
 Only one `player character` may learn a spell from a particular source at any given time, though other characters may directly aid in the process.
-
-### Challenging ways to learn a spell
-
-Some spells can be learned all at once, but information is often revealed in `2d4` parts. You may work with the facilitator to develop a challenge suitable for your characters and game, or you can roll `1d10` on the following list.
-
-1. Tattooed on the skin of a colicky newborn. Only becomes visible when the baby is sleeping peacefully.
-2. Incoherently whispered by a hypnogogic hallucination that only appears when you have suffered sleep deprivation.
-3. Inscribed in an alien language on the dark pillars of the asteroid belt. They glow based on the alignment of the planets.
-4. Overheard in fragments of conversation at a cannibalistic dinner party where all the dishes are made from sentient creatures, and the main course will be chosen from the diners at random.
-5. Carved into the bones of your right forearm. You don't know why you know it's there, but you do. At least, you're pretty sure. Ok, fifty percent sure.
-6. In the screams of murdered spirits trapped in the physical world. They want justice, but each possesses only a fragment of the killer's identity.
-7. Delivered in the form of a sutra delivered by a wraith while traveling through hyperspace fully conscious. The wraith will only take on students it deems worthy.
-8. Painted on the walls at the very bottom of a flooded limestone cave that has been uninhabited for a millennium.
-9. Embedded in the run-time code of a murderous AI who knows you're coming and doesn't like you.
-10. Emitted via pheromones by a colony of hellwasps when played an orchestral work by a composer whose work has long been forgotten. Must be played live.
 
 ## Casting spells
 
@@ -198,11 +111,11 @@ You hasten the aging of a single inanimate object up to one square meter in size
 
 The number of thralls you sacrifice determines how much the object ages.
 
-- 1 thrall — a decade
-- 2 thralls — a century
-- 4 thralls — a millennium
-- 8 thralls — a megayear
-- 10 thralls — an aeon
+- 1 thrall – a decade
+- 2 thralls – a century
+- 4 thralls – a millennium
+- 8 thralls – a megayear
+- 10 thralls – an aeon
 
 ### Divine
 
@@ -230,21 +143,41 @@ The number of thralls you sacrifice determines how long the creature remains ent
 - 8 thralls — 1 century
 - 10 thralls — 1 millennium
 
+### Expel
+
+You choose one living creature that is currently `possessed` and sacrifice one thrall. The possessing entity is forced to release control of the creature.
+
+### Hex
+
+Pick one living creature within your line of sight and sacrifice one thrall. Everything is now harder for that creature than it was before. For example, all attacks made by the target are `impaired`. This curse lasts until it is removed by casting this spell a second time.
+
 ### Infect
 
 You imbue an object or location with a connection to the Negaverse that causes all living creatures that come into contact with it to make a `STR save` or become afflicted with a disease. You determine the specifics of the disease: its symptoms, incubation period, and lethality. The disease can be medically treated, but the affected object or location remains infectious until destroyed or until another necromancer uses this spell to remove its effects.
 
 The number of thralls you sacrifice determines how large an area or object you can affect.
 
-- 1 thrall — a bed, blanket, or well
-- 2 thralls — a room, car, or shuttle
-- 4 thralls — a house, airplane, or small spacecraft
-- 8 thralls — a neighborhood, arena, or large spacecraft
-- 10 thralls — a city or space station
+- 1 thrall – a bed, blanket, or well
+- 2 thralls – a room, car, or shuttle
+- 4 thralls – a house, airplane, or small spacecraft
+- 8 thralls – a neighborhood, arena, or large spacecraft
+- 10 thralls – a city or space station
 
 ### Perceive
 
-You can see, hear, smell, taste, and touch through a thrall's senses. This spell works across any distance *and* across dimensions. When you cast this spell, you enter a trance that renders you incapacitated until you end it, at which point the targeted thrall is destroyed.
+You can see, hear, smell, taste, and touch through a thrall’s senses. This spell works across any distance *and* across dimensions. When you cast this spell, you enter a trance that renders you incapacitated until you end it, at which point the targeted thrall is destroyed.
+
+### Protect
+
+You ward an area from interference by outside forces. When a necromancer who is opposed to you attempts to enter the area you designate, they must make a CTRL save or immediately take 2d6 STR damage and be unable to enter.
+
+The protecting effects lasts one day for each thrall you sacrifice, and the number of thralls you sacrifice determines how large an area you can protect.
+
+- 1 thrall – a circle the diameter of your outstretched arms
+- 2 thralls – a room, car, or shuttle
+- 4 thralls – a house, airplane, or small spacecraft
+- 8 thralls – a neighborhood, arena, or large spacecraft
+- 10 thralls – a city or space station
 
 ### Revive
 
@@ -264,7 +197,7 @@ You instantaneously teleport a willing creature to another point in the physical
 
 # Anchor
 
-To create your anchor, you will need to have collected twelve souls and be in physical possession of your three symbolic ingredients. The ritual itself is straightforward: first, place your ingredients in a vessel of your choice. Second, call out each of the souls stored in your `fetish` by name, recite the terms of your agreement, and ask them if the terms have been fulfilled.
+To create your anchor, you will need to have collected twelve souls and be in physical possession of your three symbolic ingredients. The ritual itself is straightforward: first, place your ingredients in a vessel of your choice. Second, call out each of the souls stored in your `focus` by name, recite the terms of your agreement, and ask them if the terms have been fulfilled.
 
 If the answer is yes, then the soul will be absorbed into your vessel. If the answer is no, then it will be reclaimed by the Negaverse. Once your vessel has absorbed twelve souls, then it becomes your anchor, the magical tether that binds your spirit to the physical world and unlocks the full extent of your power.
 

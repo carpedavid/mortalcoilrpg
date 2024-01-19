@@ -1,12 +1,6 @@
 ---
 title: "Creating a Character"
-weight: 3
-# bookFlatSection: false
-# bookToc: true
-# bookHidden: false
-# bookCollapseSection: false
-# bookComments: false
-# bookSearchExclude: false
+weight: 4
 ---
 
 # Creating a character
@@ -17,9 +11,9 @@ To create a character, first choose a `background` and `homeworld`, fill in your
 
 # Backgrounds
 
-Before you were a beginning necromancer, you lived another life, developed other skills, and had other relationships. Roll `1d6` or choose from the following backgrounds, and then roll `1d6` or choose again to determine a specific goal that you were pursuing when you were offered the chance for eternal life.
+Before you were a beginning necromancer, you lived another life, developed other skills, and had other relationships. Roll `1d10` or choose from the following backgrounds, and then roll `1d6` or choose again to determine a specific goal that you were pursuing when you were offered the chance for eternal life.
 
-| **1d6** | **Background** |
+| **1d10** | **Background** |
 | ------- | -------------- |
 | 1       | Criminal       |
 | 2       | Diplomat       |
@@ -34,7 +28,7 @@ Before you were a beginning necromancer, you lived another life, developed other
 
 ## Criminal
 
-You're motivated by survival, loyalty, and greed. You were going to:
+You're motivated by loyalty and greed. You were going to:
 
 1. Deliver a shipment of stolen goods
 2. Collect protection payments
@@ -64,13 +58,13 @@ You've made a career of representing your society throughout the system. You wer
 
 ## Junker
 
-There's plenty of claims to be had for an enterprising salvager. You were planning to:
+There’s plenty of claims to be had for an enterprising salvager. You were planning to:
 
 1. Harvest cocoons from bio-engineered silkworms
 2. Reclaim fuel cells from a dormant terraforming facility
 3. Retrieve a lost cache of anti-venom
 4. Strip parts from exosuits left on an old battlefield
-5. Extract blackrock ore from an abandoned mine
+5. Extract blackrock from an abandoned mine
 6. Recover the neural network from a derelict cargo vessel
 
 **Starting gear**
@@ -109,7 +103,7 @@ You seize every opportunity to make money by buying and selling goods. You were 
 
 ## Miner
 
-Your skills are in demand throughout the Alfajiri system. You've got a job to extract:
+Your skills are in demand throughout the Alfajiri system. You had a job to extract:
 
 1. Blackrock from the fossilized juggernauts of Kivuli
 2. Hematite from the Red Mountains of Jangwa
@@ -154,7 +148,7 @@ You are motivated by solving problems and gaining knowledge. You were attempting
 
 ## Surveyor
 
-You have an important job to do. You were en route to:
+You had an important job to do. You were en route to:
 
 1. Assess the repairability of a salvage site
 2. Measure the boundaries of a construction site
@@ -169,22 +163,22 @@ You have an important job to do. You were en route to:
 
 ## Teamster
 
-No one is more critical to the free flow of trade throughout the Terran Republic than you. You're on your way to:
+No one is more critical to the free flow of trade throughout the Terran Republic than you. You were on your way to:
 
 1. Take your last vacation before you hit 30 years and retire
-2. Haul a tanker of water from Barafu to the outer planets
+2. Haul a tanker of water from Barafu to Kivuli
 3. Move a load of antimatter between Mwewe and Barafu
 4. Start a new job as a dock worker on Maono
 5. Work the underwater ports of Msituni
 6. Attend a union meeting on Nyumbani
 
-**Starting gear**
+#**Starting gear**
 
-3d6x100 credits, exoskeleton, plasma knife, vacuum suit
+`3d6x100` credits, exoskeleton, plasma knife, vacuum suit
 
 # Homeworld
 
-The stellar system, Alfajiri, was first discovered and settled by East Africa Stellar Engineering, one of the largest terraforming and orbital infrastructure conglomerates of the 22nd century. The colony ship, Ushindi, carried just over one hundred thousand engineers, scientists, politicians, artists, and farmers.
+The stellar system, Alfajiri, was first discovered and settled by East Africa Stellar Engineering, one of the largest terraforming and orbital infrastructure conglomerates of the 22nd century. The colony ship, Victorious, carried just over one hundred thousand engineers, scientists, politicians, artists, and farmers.
 
 Three thousand years later, humans have spread throughout the system. Roll `1d12` or choose what part of the system you come from:
 
@@ -199,39 +193,37 @@ Three thousand years later, humans have spread throughout the system. Roll `1d12
 | 11       | Mwewe         |
 | 12       | Kivuli        |
 
-The inner planets are those within twelve astronomical units (AU) of the star Alfajiri. Beyond Kivuli, the last of the inner planets, are four giant planets which are still largely unexplored and uninhabited. The outer planets orbit between twenty and one hundred twenty AU away from the center of the system.
+**Maono** is the jump gate that connects the Alfajiri system with the rest of the Terran Republic. It is the largest trading hub in the system and is also the seat of the Alfajiri System Leadership Council.
 
-**Maono** is the jump gate that connects the Alfajiri system with the rest of the Terran Republic. It is the largest trading hub in the system and is also the seat of the Alfajiri System Leadership Council. Its cosmopolitan residents favor biological enhancements over technological implants.
-
-**Almasi** is a massive mining and refining station. Its half-billion residents are predominately laborers. They favor technological implants over biological enhancements.
+**Almasi** is a massive mining and refining station. Its half-billion residents are predominately laborers.
 
 **Jangwa** is a dry and mountainous rocky planet. With a thin atmosphere and sparse resources, Jangwa attracts those who value isolation and self-sufficiency.
 
-**Msituni** is a terrestrial planet with crystal clear oceans, lush jungles and forests, and massive amounts of volcanic and tectonic activity. It is the second most populated planet, at a little under one billion humans.
+**Msituni** is a terrestrial planet with crystal clear oceans, lush jungles and forests, and massive amounts of volcanic and tectonic activity. It is the second most populated planet at a little under one billion humans.
 
 **Barafu** is an ice-covered moon with small settlements powered by geothermal energy. It has become a popular destination for explorers and thrill seekers.
 
 **Nyumbani** is the most Earth-like of the planets in the Alfajiri system and is also the most populous at over ten billion people. Every culture found on Earth can be found on Nyumbani.
 
-**Mwewe** is a human-built moon of Malaika, a carbon planet, which is uninhabitable. They refine hydrocarbons collected from the vast oceans of tar and methane that cover the surface of Malaika. Most of Mwewe's hundred-million residents work in the refineries.
+**Mwewe** is a human-built moon of Malaika, a carbon planet, which is uninhabitable. Most of its hundred-million residents refine hydrocarbons collected from the vast oceans of tar and methane that cover the surface of the planet below.
 
-**Kivuli**, the dark planet, orbits well outside the habitable zone. It is home to observatories, research stations, and exploration base camps. It is the primary trading hub for the outer planets.
+**Kivuli**, the dark planet, orbits well outside the habitable zone. It is home to observatories, research stations, and camps dedicated to exploring the space beyond.
 
 # Details
 
 Next, fill in a few pertinent details.
 
 1. Choose your name and pronouns.
-2. Based on your homeworld, pick a style of clothing and a physical description.
+2. Choose a physical description and personality
 3. Choose your age or roll `2d20+16`.
 
 ## Ability scores
 
 You have three `ability scores` that represent your ability to withstand the various challenges that you'll encounter on your quest for immortality.
 
-- `STR` — Strength represents your physicality, brawn, and toughness.
-- `DEX` — Dexterity represents your speed, ability to sneak, and hand-eye coordination.
-- `CTRL` — Control represents your willpower, strength of personality, and ability to tolerate the unknown.
+* `STR` — physicality, brawn, and toughness.
+* `DEX` — speed, ability to sneak, and hand-eye coordination.
+* `CTRL` — willpower, strength of personality, and ability to tolerate the unknown.
 
 Roll `3d6` for each of your ability scores, in order. You may choose to swap any two of the results.
 
@@ -241,13 +233,15 @@ Roll `1d6` to determine your starting `HP`. Hit protection does not measure your
 
 ## Inventory slots + starting gear
 
-You have a total of ten `inventory slots` that represent a backpack or bag (six slots) and your hands and upper body (four slots). Most items take up one slot. Small items can be bundled together into one slot. Bulky items take two slots and are awkward to carry, often requiring two hands.
+You have a total of ten `inventory slots` that represent your ability to carry items. Most items take up one slot, but small items can be bundled together. Bulky items take two slots and are awkward or difficult to carry, often requiring two hands.
 
-You begin with the gear specified by your background. In addition, the equipment chapter contains a wide selection of weapons, armor, and adventuring gear for you to choose from. When you're in close proximity to civilization, you generally have easy access to any common items that you might need.
+If you are carrying a full inventory, you are reduced to `0 HP`.
+
+You begin with the gear specified by your background. In addition, the equipment chapter contains a wide selection of weapons, armor, and adventuring gear for you to choose from. When you’re in close proximity to civilization, you generally have easy access to any common items that you might need.
 
 ## The voice
 
-Everyone hears the voice differently. You know the one — the one that whispers in your ear, tells you things you shouldn't know, and offers to teach you the dark arts — that one. What does yours sound like? Is it human? Artificial? Gendered? Does it speak with an accent? Do you hear words, see images, or simply feel it nudging you slowly down the path of darkness?
+Everyone hears the voice differently. You know the one — the one that whispers in your ear, tells you things you shouldn’t know, and offers to teach you the dark arts — that one. What does yours sound like? Is it human? Artificial? Gendered? Does it speak with an accent? Do you hear words, see images, or simply feel it nudging you slowly down the path of darkness?
 
 When did you first hear the voice? Roll `1d6`, choose, or create your own triggering event.
 
@@ -258,11 +252,52 @@ When did you first hear the voice? Roll `1d6`, choose, or create your own trigge
 5. Your most closely held secret was publicly revealed.
 6. Your financial accounts were hacked.
 
-## Fetish
+## Appearance
 
-Roll `d66`, choose, or create your `fetish`, an object that has special meaning and which is the source of your magical power. You can never lose it or have it forcefully removed — it will always reappear in your hand — but you can willingly give it away, severing your connection to the Negaverse forever.
+Optionally, roll `1d6` on each list or choose visible traits that help to distinguish your character from other aspiring necromancers.
 
-Roll `d66` three additional times to determine the symbolic ingredients you'll need to create your `anchor`. Unlike your fetish, these items can be lost, stolen, or destroyed.
+### Cyberware
+
+1. Telescopic irises
+2. Illuminated skin
+3. Mechanical limb
+4. Titanium exoskeleton
+5. Storage hatches
+6. Mounting points
+
+### Biological enhancements
+
+1. Limb graft
+2. Melanin/chlorophyl replacement
+3. Prehensile tail
+4. Bioluminescent hair
+5. Horns
+6. Fungal skin infusion
+
+## Personality traits
+
+These five traits are an optional but useful tool for developing your character's personality. Choose or roll `1d6` for each trait, where the descriptive words are presented from low expression of the trait to high.
+
+* **Openness** describes your appreciation for adventure, creativity, and emotion.
+* **Conscientiousness** describes your tendency to display self-discipline and be organized.
+* **Extraversion** describes your tendency to be outgoing and high in social energy.
+* **Agreeableness** describes your general concern for social harmony.
+* **Stability** describes your tendency to be emotionally stable, especially when under pressure.
+
+| **1d6** | **Openness**  | **Conscientiousness** | **Extraversion** | **Agreeableness** | **Stability** |
+| ------- | ------------- | --------------------- | ---------------- | ----------------- | ------------- |
+| 1       | Close-minded  | Irresponsible         | Solitary         | Manipulative      | Volatile      |
+| 2       | Rigid         | Disorganized          | Reserved         | Callous           | Jumpy         |
+| 3       | Knowledgeable | Effective             | Sociable         | Gruff             | Pessimistic   |
+| 4       | Curious       | Reliable              | Energetic        | Polite            | Optimistic    |
+| 5       | Artistic      | Careful               | Assertive        | Thoughtful        | Resilient     |
+| 6       | Adventurous   | Serious               | Gregarious       | Generous          | Carefree      |
+
+## Focus
+
+Roll `d66`, choose, or create your `focus`, an object that has special meaning and which is the source of your magical power. You can never lose it or have it forcefully removed — it will always reappear in your hand — but you can willingly give it away, severing your connection to the Negaverse forever.
+
+Roll `d66` three additional times to determine the symbolic ingredients you'll need to create your `anchor` – the mystical object that will tether your spirit to the physical universe, granting you eternal life. Unlike your focus, these items can be lost, stolen, or destroyed.
 
 1. length of rope, frayed and broken
 2. straight razor, stained with blood
@@ -271,19 +306,19 @@ Roll `d66` three additional times to determine the symbolic ingredients you'll n
 5. keycard, grants access to the roof of a tall building
 6. train ticket, unused
 7. rat skull, squeaks happily when held
-8. shark's tooth, smells of the sea
+8. shark’s tooth, smells of the sea
 9. dog collar, floats around excitedly if left unattended
-10. rabbit's foot, twitches occasionally
+10. rabbit’s foot, twitches occasionally
 11. horse shoe, well worn
 12. feather, immune to gravity
 13. hologram, someone you know very well
-14. engraved locket, initials of someone you've never met
+14. engraved locket, initials of someone you’ve never met
 15. book of poems, well-read
 16. hymnal, mint condition
 17. bottle of perfume, half used
 18. satchel, floral potpourri
 19. wooden animal, hand-carved
-20. child's doll, hand-sewn
+20. child’s doll, hand-sewn
 21. porcelain figurine, dancer
 22. bronze statuette, hunter
 23. crystal pendant, bird
@@ -294,8 +329,8 @@ Roll `d66` three additional times to determine the symbolic ingredients you'll n
 28. notebook, black
 29. pocket knife, sharp
 30. paperweight, onyx pyramid
-31. trumpet, only plays  jazz
-32. pair of headphones, kickin' bass
+31. trumpet, only plays jazz
+32. pair of headphones, kickin’ bass
 33. guitar, tuned perfectly
 34. violin, golden
 35. drum, skin of dubious provenance
@@ -321,10 +356,10 @@ Next, choose one of the other characters, then roll `1d6` or choose one of the f
 
 1. You see them as **your closest friend**. They get to decide how your friendship came about and how close they feel to you.
 2. You **owe them a debt** of some significance. They get to decide what the debt is for and how hard it will be to repay.
-3. You have been **rivals in the past**. They get to decide what the rivalry was about and how you've set that aside.
+3. You have been **rivals in the past**. They get to decide what the rivalry was about and how you’ve set that aside.
 4. You have been **dreaming about them**. They get to decide what the dreams are about and how they fit into them.
 5. You **worked together**. They get to decide what your working relationship looked like and how you felt about each other.
-6. You **admire their abilities**. They get to decide what talents of theirs you admire and how you've been expressing your admiration.
+6. You **admire their abilities**. They get to decide what talents of theirs you admire and how you’ve been expressing your admiration.
 
 ## Ship
 
@@ -348,6 +383,6 @@ Every spacefaring crew needs a ship, and every ship needs an AI. As a group, rol
 | 5       | Amani    | protective             |
 | 6       | Utulivu  | reckless               |
 
-Every ship is outfitted with an anti-matter-powered positron drive for interplanetary travel, an alpha-rated jump drive for interstellar travel, an alpha-rated cargo container capable of holding 60 units of cargo, and a cryochamber to keep crew from experiencing adverse effects from hyperspace.
+Every ship is outfitted with an anti-matter-powered `positron drive` for interplanetary travel, an alpha-rated `jump drive` for interstellar travel, an alpha-rated `cargo container` capable of holding `60 units` of cargo, and a cryochamber to keep your crew from experiencing adverse effects from hyperspace.
 
-Your ship begins with 1d6 breech protection (BP) and is filled with 20 fuel. If you reach 0 BP, then any breech damage your ship takes destroys it. If you reach 0 fuel, then you are adrift.
+Your ship begins with `1d6` breech protection (`BP`) and is filled with `20 fuel`. If you reach `0 BP`, then any breech damage your ship takes destroys it. If you reach `0 fuel`, then you are adrift.

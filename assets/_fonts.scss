@@ -1,19 +1,20 @@
-/* roboto-regular - latin */
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&family=Inter+Tight:wght@700&family=Inter:wght@400;700&display=swap');
+
 body {
-  font-family: proxima-nova, sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
 
 code {
-  font-family: courier-prime,monospace;
+  font-family: "Courier Prime", monospace;
   font-weight: 700;
   font-style: normal;
 }
 
 h1, h2, h3 {
-  font-family: proxima-nova-extra-condensed, sans-serif;
-  font-weight: 500;
+  font-family: "Inter Tight", sans-serif;
+  font-weight: 700;
   font-style: normal;
   text-transform: uppercase;
   ;

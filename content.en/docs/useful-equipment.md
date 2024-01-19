@@ -1,23 +1,17 @@
 ---
 title: "Useful Equipment"
-weight: 4
-# bookFlatSection: false
-# bookToc: true
-# bookHidden: false
-# bookCollapseSection: false
-# bookComments: false
-# bookSearchExclude: false
+weight: 5
 ---
 
-# Equipment
+# Useful equipment
 
-> It's dangerous out here. Lots of things that don't take kindly to people like us sticking our heads where they don't belong. That's why you have to be prepared for anything, spacefarer. Plan for the worst, hope for the best, isn't that right? After all, if you want to live forever, you have to live long enough to make it happen.
+> It’s dangerous out here. Lots of things that don’t take kindly to people like us sticking our heads where they don’t belong. That’s why you have to be prepared for anything, spacefarer. Plan for the worst, hope for the best, isn’t that right? After all, if you want to live forever, you have to live long enough to make it happen.
 
 # Item tags
 
 `Armor` indicates that this item reduces `damage` before it is applied to `HP`.
 
-`Blast` indicates that an attack hits every target within an area. If you use a blast attack, you roll damage or stress separately for each affected target. Roll the attack's standard damage or stress die to determine the number of targets affected.
+`Blast` indicates that an attack hits every target within an area. If you use a blast attack, you roll damage or stress separately for each affected target. Roll the attack’s standard damage or stress die to determine the number of targets affected.
 
 `Breech` weapons do physical `damage` to space ships, which reduces their `breech protection` (BP).
 
@@ -125,7 +119,7 @@ All explosives are single-use items.
 
 **Bioscanners** detect the existence of living biological creatures within a 100m radius. They are largely ineffective at detecting undead.
 
-**Exoskeletons** enhance the lifting and carrying capacity of a human being by a factor of 10. They're used by dock workers and anyone else who needs to move very heavy things on a regular basis.
+**Exoskeletons** enhance the lifting and carrying capacity of a human being by a factor of ten. They’re used by dock workers and anyone else who needs to move very heavy things on a regular basis.
 
 **Geoscanners** use multi-frequency radar waves to create a navigable 3D map of a 100m radius sphere, centered on the user.
 
@@ -143,4 +137,8 @@ All explosives are single-use items.
 
 **Universal translators** allow for communication between speakers of most human languages.
 
+## Ship weapons + armor
 
+Most civilian ships aren't equipped with weapons or armor. Pirate ships are sometimes equipped with salvaged proton cannons (`1d6 breech`) and inertial dampeners (`+1 armor`). Military ships range from speedy fighters with proton cannons of their own to massive carriers equipped with tactical antimatter torpedoes and singularity howitzers.
+
+To price ship-grade weapons and armor, multiply the cost of an equivalent personal item by `100`.
